@@ -7,9 +7,7 @@
 <table>
 <thead>
 <tr class="header">
-<th>Sept 2009 – present</th>
-<th>Economist</th>
-<th>Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</th>
+<th>Sept 2009 – present <strong>Economist</strong> Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</th>
 </tr>
 </thead>
 <tbody>
@@ -28,13 +26,9 @@
 <li><p>Created a Software Development Community of Practice</p></li>
 <li><p>Created a Risk Management Community of Practice</p></li>
 </ul></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td>July 2008 – Sept 2009</td>
-<td><strong>DA Intern Economist</strong></td>
-<td><strong>Little Rock District USACE, South West Division (USACE-SWD-SWL)</strong></td>
+<td>July 2008 – Sept 2009 <strong>DA Intern Economist</strong> Little Rock District USACE, South West Division (USACE-SWD-SWL)</td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -42,8 +36,6 @@
 <li><p>Learned how to evaluate hydropower rehab projects through the Hydropower Analysis Center</p></li>
 <li><p>Tested, validated, and improved HEC-FIA 2.0 earning me a position at HEC.</p></li>
 </ul></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
