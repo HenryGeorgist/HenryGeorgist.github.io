@@ -2,9 +2,12 @@
 
 <willyplehman@gmail.com> | 405.612.4178
 
-**PROFESSIONAL EXPERIENCE:**
-
 <table>
+<thead>
+  <tr class="odd">
+    <th>Professional Experience"</th>
+  </tr>
+</thead>
 <tbody>
 <tr class="even">
   <td>Sept 2009 – present <strong>Economist</strong> Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</td>
