@@ -5,12 +5,10 @@
 **PROFESSIONAL EXPERIENCE:**
 
 <table>
-<thead>
+<tbody>
 <tr class="even">
   <td>Sept 2009 – present <strong>Economist</strong> Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</td>
 </tr>
-</thead>
-<tbody>
 <tr class="odd">
 <td><ul>
 <li><p>Led Development of the Hydrologic Engineering Center’s Watershed Analysis Tool (HEC-WAT) software 2018 - Present</p></li>
