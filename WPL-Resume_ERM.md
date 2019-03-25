@@ -3,8 +3,11 @@
 <willyplehman@gmail.com> | 405.612.4178
 
 <table>
+<style>
+tr:nth-child(odd) {background-color: #f2f2f2;}
+</style>
 <thead>
-  <tr class="odd">
+  <tr>
     <th>Professional Experience</th>
   </tr>
 </thead>
