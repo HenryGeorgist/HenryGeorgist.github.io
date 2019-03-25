@@ -41,7 +41,7 @@
 </tbody>
 </table>
 
-**Technical Expertise\*:**
+**Technical Expertise:**
 
   - Fluent in C\# (4 years – preferred language), Java (5 years), Visual Basic (8 years)
 
@@ -72,7 +72,7 @@ IWR Product of the Year Award 2011 (HEC-FIA)
 
 IWR Scientific Achievement Award 2013 (HEC-FIA 3.0)
 
-**PUBLICATIONS/PAPERS\*:**
+**PUBLICATIONS/PAPERS:**
 
 Author (unpublished paper) Consequence Estimation for Complex Systems –
 2011 ASCE
