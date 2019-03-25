@@ -43,16 +43,15 @@
 
 **Technical Expertise\*:**
 
-  - > Fluent in C\# (3 years – preferred language), Java (4 years),
-    > Visual Basic (6 years)
+  - Fluent in C\# (4 years – preferred language), Java (5 years), Visual Basic (8 years)
 
-  - > **Experience with** Visual Studio 11 – 17, NetBeans, and Eclipse
-    > IDE’s
+  - Experience with Visual Studio 11 – 17, NetBeans, and Eclipse IDE’s
+  
+  - Jira Administrator, Bitbucket, Git, Github, Discourse Administrator, Perforce, Gemini
 
-  - > Expertise in Microsoft Office products
+  - Expertise in Microsoft Office products (Word, Outlook, Excel, Publisher)
 
-  - > Experience developing Enterprise Risk Management Risk Profiles for
-    > a medium sized government agency
+  - Experience developing Enterprise Risk Management Risk Profiles for a medium sized government agency
 
 **EDUCATIONAL BACKGROUND:**
 
@@ -87,7 +86,7 @@ Author (unpublished paper) Problems in Lifecycle Consequence Estimation
 – 2016 FloodRISK2016
 
 Author (unpublished paper) Indirect Economic Loss Estimation with
-HEC-FIA – 2016 FloodRISK2016
+HEC-IA – 2016 FloodRISK2016
 
 Author (unpublished paper) An Empirical Functional Approach to Depth
 Damage Relationships – 2016 FloodRISK2016
