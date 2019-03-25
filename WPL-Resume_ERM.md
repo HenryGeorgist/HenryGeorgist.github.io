@@ -9,18 +9,18 @@
   </tr>
 </thead>
 <tbody>
-<tr style="{background-color: #f2f2f2;}">
+<tr>
   <td>Sept 2009 – present <strong>Economist</strong> Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</td>
 </tr>
 <tr >
 <td><ul>
-<li><p>Led Development of the Hydrologic Engineering Center’s Watershed Analysis Tool (HEC-WAT) software 2018 - Present</p></li>
-<li><p>Led Development of the Hydrologic Engineering Center’s Flood Impact Analysis (HEC-FIA) Software. 2011-Present</p></li>
+<li><p>Lead Devveloper: Hydrologic Engineering Center’s Watershed Analysis Tool (HEC-WAT) 2018 - Present</p></li>
+<li><p>Lead Developer Hydrologic Engineering Center’s Flood Impact Analysis (HEC-FIA) 2011-Present</p></li>
 <li><p>Participated in the Emerging Leaders program in 2014</p></li>
-<li><p>Became Subject Matter Expert in flood damage reduction, risk assessment, and Monte Carlo analysis</p></li>
+<li><p>Subject Matter Expert in flood damage reduction, risk assessment, and Monte Carlo analysis</p></li>
 <li><p>Taught in more than three training sessions annually on consequence assessment and risk analysis</p></li>
 <li><p>Contributed to the design and implementation of systems based lifecycle risk assessment models</p></li>
-<li><p>Programmed a statistics library to assist in quickly making Monte Carlo models – for random data generation and summary processing.</p></li>
+<li><p>Programmed a statistics library to assist in quickly making Monte Carlo models – for data generation and summary processing.</p></li>
 <li><p>Developed and implemented testing plans for more than five numerical modeling software programs</p></li>
 <li><p>Developed a Risk Profile, Assessment, and Appetite for HEC</p></li>
 <li><p>Presented Enterprise Risk Management to HEC leadership resulting in adoption of the practice of ERM (ISO Framework).</p></li>
@@ -28,7 +28,7 @@
 <li><p>Created a Risk Management Community of Practice</p></li>
 </ul></td>
 </tr>
-<tr style="{background-color: #f2f2f2;}">
+<tr>
 <td>July 2008 – Sept 2009 <strong>DA Intern Economist</strong> Little Rock District USACE, South West Division (USACE-SWD-SWL)</td>
 </tr>
 <tr>
@@ -66,6 +66,8 @@ B.A. (2006), Economics, The Oklahoma State University, Stillwater, OK
 B.A. (2006), Mathematics, The Oklahoma State University, Stillwater, OK
 
 **AWARDS:**
+
+IWR Product of the Year Award 2017 (HEC-WAT)
 
 IWR Product of the Year Award 2011 (HEC-FIA)
 
