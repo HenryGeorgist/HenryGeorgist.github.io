@@ -14,7 +14,7 @@
 </tr>
 <tr >
 <td><ul>
-<li><p>Lead Devveloper: Hydrologic Engineering Center’s Watershed Analysis Tool (HEC-WAT) 2018 - Present</p></li>
+<li><p>Lead Developer: Hydrologic Engineering Center’s Watershed Analysis Tool (HEC-WAT) 2018 - Present</p></li>
 <li><p>Lead Developer Hydrologic Engineering Center’s Flood Impact Analysis (HEC-FIA) 2011-Present</p></li>
 <li><p>Participated in the Emerging Leaders program in 2014</p></li>
 <li><p>Subject Matter Expert in flood damage reduction, risk assessment, and Monte Carlo analysis</p></li>
