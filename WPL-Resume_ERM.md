@@ -6,8 +6,8 @@
 
 <table>
 <thead>
-<tr class="header">
-<th>Sept 2009 – present <strong>Economist</strong> Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</th>
+<tr class="even">
+  <td>Sept 2009 – present <strong>Economist</strong> Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</td>
 </tr>
 </thead>
 <tbody>
