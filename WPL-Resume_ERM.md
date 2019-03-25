@@ -3,19 +3,16 @@
 <willyplehman@gmail.com> | 405.612.4178
 
 <table>
-<style>
-tr:nth-child(odd) {background-color: #f2f2f2;}
-</style>
 <thead>
   <tr>
     <th>Professional Experience</th>
   </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr style="{background-color: #f2f2f2;}">
   <td>Sept 2009 – present <strong>Economist</strong> Hydrologic Engineering Center Water Resources Systems (CEIWR-HEC-WRS)</td>
 </tr>
-<tr class="even">
+<tr >
 <td><ul>
 <li><p>Led Development of the Hydrologic Engineering Center’s Watershed Analysis Tool (HEC-WAT) software 2018 - Present</p></li>
 <li><p>Led Development of the Hydrologic Engineering Center’s Flood Impact Analysis (HEC-FIA) Software. 2011-Present</p></li>
@@ -31,10 +28,10 @@ tr:nth-child(odd) {background-color: #f2f2f2;}
 <li><p>Created a Risk Management Community of Practice</p></li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr style="{background-color: #f2f2f2;}">
 <td>July 2008 – Sept 2009 <strong>DA Intern Economist</strong> Little Rock District USACE, South West Division (USACE-SWD-SWL)</td>
 </tr>
-<tr class="even">
+<tr>
 <td><ul>
 <li><p>Completed two-year training agenda in eighteen months.</p></li>
 <li><p>Learned how to evaluate hydropower rehab projects through the Hydropower Analysis Center</p></li>
