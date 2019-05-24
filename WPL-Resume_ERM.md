@@ -55,7 +55,7 @@
 
 **EDUCATIONAL BACKGROUND:**
 
-M.S. (Expected Complete 2019) Risk Management, Notre Dame University
+M.S. (2019) Risk Management, Notre Dame University
 Maryland, Maryland
 
 M.S. (2008), Economics, The Oklahoma State University, Stillwater, OK
