@@ -1,6 +1,5 @@
 **William P. Lehman**  
-2538 Silverado St, West Sacramento, CA 95691 • 405-612-4178 • email:
-willyplehman@gmail.com
+2538 Silverado St, West Sacramento, CA 95691 | ph: 405-612-4178 | email: willyplehman@gmail.com
 
 **Summary**
 
