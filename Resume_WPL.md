@@ -68,7 +68,7 @@ strategic goals in support of their mission and vision.
 
 **Work History**
 
-**Economist*,*** <span class="smallcaps">Hydrologic Engineering Center
+**Economist**, <span class="smallcaps">Hydrologic Engineering Center
 USACE</span>, Davis, CA, 2009-Present
 
 **Department of the Army Economist Intern**, <span class="smallcaps">SWL
